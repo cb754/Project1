@@ -1,0 +1,18 @@
+body {
+    font-family: "Playwrite GB S", serif;
+    background-color: rgb(180, 206, 180);
+    color: white;
+    margin: 2em;
+    padding: 1%;
+    text-align: center;
+}
+
+.container-fluid { 
+    background-color: rgb(217, 231, 217);
+    color: white;
+}
+
+.navbar navbar-expand-lg bg-body-tertiary {
+    color: white;
+}
+
